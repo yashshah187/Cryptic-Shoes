@@ -213,6 +213,26 @@
         width: 100%;
         padding-right: 20px;
     }
+    .contact100-more{
+        width: 100%;
+    }
+    
+    .logocontact{
+        background-size: 100% 100%;
+    position: relative;
+    }
+    
+    .info p1{
+        position: relative;
+        font-size: 30px;
+      text-align: left;
+        }
+    .info p{
+        position: relative;
+        font-size: 30px;
+        padding-bottom: 80px;
+        text-align: left;
+    }
 
 }
 
@@ -342,6 +362,23 @@
         padding-right: 20px;
     }
 
+    .logocontact{
+        background-size: 100% 100%;
+    position: relative;
+    }
+    
+    .info p1{
+        position: relative;
+        font-size: 26px;
+        text-align: left;
+        
+    }
+    .info p{
+        position: relative;
+        font-size: 26px;
+        padding-bottom: 80px;
+    text-align: left;
+    }
 }
 
 @media (max-width: 575px) {
@@ -467,6 +504,20 @@
         padding-right: 20px;
     }
 
+    .logocontact{
+        background-size: 100% 100%;
+    position: relative;
+    }
+    
+    .info p1{
+        position: relative;
+        font-size: 22px;
+    }
+    .info p{
+        position: relative;
+        font-size: 22px;
+        padding-bottom: 80px;
+    }
 }
 
 @media screen  and (max-width: 480px) {
@@ -526,6 +577,23 @@
                 width: 100%;
                 padding-right: 20px;
             }
+    
+    .logocontact{
+    background-size: 100% 100%;
+position: relative;
+}
+
+.info p1{
+    position: relative;
+    font-size: 20px;
+    text-align: left;  
+}
+.info p{
+    position: relative;
+    font-size: 20px;
+    padding-bottom: 80px;
+    text-align: left;
+}
 
 }
 
