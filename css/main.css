@@ -486,16 +486,27 @@ textarea.input100 {
   }
 }
 
-.logo{
-  margin-left: 150px;
+.logocontact{
+  width: 100%;
+  float: left;
+  text-align: center;
+  padding: 20px 0px;
 }
 
 .info{
-  margin-top: 20%;
-  margin-left: 60px;
+  margin-top: 25%;
+  margin-left: 20px;
 }
-.info pre{
+.info p1{
   font-size: 22px;
 color: lightpink;
+margin-left: -10px;
+font-family: 'Charmonman', cursive;
+}
 
+.info p{
+  font-size: 22px;
+color: lightpink;
+margin-left: -10px;
+font-family: 'Charmonman', cursive;
 }
